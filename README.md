@@ -1,1 +1,2 @@
-# frontend projects and challenge
+# frontend
+Projects for frontend code
